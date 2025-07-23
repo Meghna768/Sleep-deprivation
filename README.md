@@ -18,7 +18,6 @@ It was built entirely from scratch using Python, visualized and analyzed in Jupy
 
 ## 💻 Demo
 
-Try the interactive app here 👉 [Add your Streamlit Cloud or localhost link here]
 
 ## 📂 Files in This Repository
 
